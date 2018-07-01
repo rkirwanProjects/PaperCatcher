@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="paperCatcher.Form1">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="btnHelp" Hidden="true" />
+      <Field Name="btnPlay" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="Label1" Hidden="true" />
+      <Field Name="lblInstructions" Hidden="true" />
+      <Field Name="pctMovementKeys" Hidden="true" />
+      <Field Name="ToolStrip1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAECABAAAAAACAIAACAIAAAAAABEAAIAAAAAA=</HashCode>
+      <FileName>Form1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="paperCatcher.Form2">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="btnLoadScore" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="lblFinalScore" Hidden="true" />
+      <Field Name="lblFinalScoreTotal" Hidden="true" />
+      <Field Name="lblGameOver" Hidden="true" />
+      <Field Name="lblScore" Hidden="true" />
+      <Field Name="lblScoreTotal" Hidden="true" />
+      <Field Name="lblTime" Hidden="true" />
+      <Field Name="lblTimeLeft" Hidden="true" />
+      <Method Name="New" Hidden="true" />
+      <Field Name="pctBin" Hidden="true" />
+      <Field Name="PictureBox1" Hidden="true" />
+      <Field Name="PictureBox2" Hidden="true" />
+      <Field Name="PictureBox3" Hidden="true" />
+      <Field Name="PictureBox4" Hidden="true" />
+      <Field Name="Timer1" Hidden="true" />
+      <Field Name="Timer2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EAAQgIAAIDIAIAAIAACAQAQikQAAAAIABEAAAAEEgAA=</HashCode>
+      <FileName>Form2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="paperCatcher.Form3">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="btnAdd" Hidden="true" />
+      <Field Name="btnRefresh" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="dgvDisplay" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="lblFinalScore" Hidden="true" />
+      <Field Name="lblFirstName" Hidden="true" />
+      <Field Name="lblHIghScores" Hidden="true" />
+      <Field Name="lblNew" Hidden="true" />
+      <Field Name="lblScore" Hidden="true" />
+      <Field Name="txtPlayerName" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAQAjQQCAIAAACDAAAigAABgAAAAAAAAAEAAAI=</HashCode>
+      <FileName>Form3.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="paperCatcher.frmHelp">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="WebBrowser1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAIACAAAACAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>frmHelp.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="paperCatcher.Module1">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Module1.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

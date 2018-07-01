@@ -1,0 +1,23 @@
+Installation and Troubleshooting
+
+Contents
+1. Game design and version
+2. How to install
+3. How to uninstall
+4. Minimum Specification
+
+1. Game Design and Version
+This is a guide for the game Paper Catcher. If you need help understanding how to play and work the game click on the help button on the home form which will take to a user support file. This is the first version of the game (Version 1.0). If you have any further enquires contact us at paperCatcher@gmail.com.
+
+2. How to Install
+Download the file containing the game (paperCatcher) to your C drive. Click on the visual studio file (paperCatcher.sln) to open the game.
+
+3. How to Uninstall
+Go to the place that you saved the file for the game in when it was downloaded. Right click on the file, and delete form your computer. 
+
+4. Minimum Specification
+Can be played on platform of Windows 7 wich is the lowest recommecded platform. Anything higher will be fine as well.
+500MG of Ram is recommeded to run the game.
+
+
+
