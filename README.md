@@ -2,7 +2,7 @@
 
 Build Instructions:
 
-This is a Windows application written in vb.net using Visual Studio 2017
+This is a Windows application written in vb.net using Visual Studio 2017. It also uses the Microsoft Access Database Engine (32 bit) which will need to be installed on your machine to save the score to the highscores database.
 
 1. Download the solution folder by clicking on the green "clone or download" in the top right, and selecting "Download ZIP".
 2. Unzip the folder by right clicking on the zipped folder and selecting "Extract all files"
